@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>benefits</title>
+</head>
+<body style="background: url(conts.gif);background-size: cover;">
+
+<br>
+<br>
+
+<div style="background:transparent;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid gray;text-align: center;backdrop-filter: blur(15px);">
+
+<h1 style="font-family: verdana;color: lightgray;text-shadow:2px 2px gray;">BENEFITS</h1>
+
+<p>• Combats climate change: Trees absorb carbon dioxide, a major greenhouse gas, and store it as they grow. This helps to mitigate the effects of climate change.</p>
+ 
+<p>• Improves air quality: Trees act as natural filters, removing dust, pollutants, and harmful gases from the air we breathe. </p>
+
+<p>• Reduces stormwater runoff: Trees slow down the flow of rainwater, allowing it to soak into the ground instead of running off and causing erosion.</p>
+
+<p>• Provides wildlife habitat: Trees provide food and shelter for a variety of animals, birds, and insects.</p>
+
+<p>• Lowers energy costs: Trees can help to cool buildings in the summer and provide wind protection in the winter, reducing energy consumption for heating and cooling.</p>
+
+<p>• Beautifies communities: Trees add beauty and character to our neighborhoods and cities.</p>
+
+<p>• Improves mental and physical health: Studies have shown that spending time in nature can reduce stress, improve mood, and boost overall health.</p>
+
+<p>• Provides food and resources: Many trees produce fruits, nuts, and other edible items that can be a valuable source of food and income.</p>
+
+
+<p>Planting trees is a relatively simple activity that can have a big impact. So why not get involved in a tree planting event or plant a tree in your own yard? You'll be making a positive contribution to the environment and your community.</p>
+
+<a href="2nd.html" style="text-decoration: none;color: burlywood;text-shadow: 2PX 2PX white;">GO BACK</a>
+
+</div>
+
+</body>
+</html>
