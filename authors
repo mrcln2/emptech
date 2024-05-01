@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>authors</title>
+</head>
+<body style="background-color: #75975e;background-size: cover; text-align: center;">
+
+<br>
+<br>
+
+<h1 style="font-family: verdana;color: lightgray;text-shadow:2px 2px gray;">AUTHORS</h1>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a1.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">RADELYN JOY M. BINGABING</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">radelynjoybingabing386@gmail.com</p>
+
+</div>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a2.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">ARCHIE G. ORAY</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">archieoray@gmail.com</p>
+
+</div>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a3.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">JONALYN L. ROBEL</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">jonalynrobel21@gmail.com</p>
+
+</div>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a4.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">CHRISTINE JOY D. MANZANO</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">christinemanzanocj19@gmail.com</p>
+
+</div>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a5.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">RONA LEA LYN A. MARCELO</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">marceloronalealyn@gmail.com</p>
+
+</div>
+
+<div style="background-color:#87ab69;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid #634620;text-align: center;backdrop-filter: blur(15px);">
+
+<img src="a6.jfif" width="150" height="150" style="border-radius: 100%;box-shadow: 3px 3px black;">
+<h3 style="font-family: VERDANA;color:whitesmoke;">COLETTE C. ALINGHAWA</h2>
+	<p style="color: white; font-family:courier">ABM 12-D</p>
+	<p style="color: white; font-family:courier">colettecadag15@gmail.com</p>
+
+</div>
+
+<a href="2nd.html" style="text-decoration: none;color: burlywood;text-shadow: 2PX 2PX white;text-align: center;">GO BACK</a>
+
+
+
+
+</body>
+</html>
