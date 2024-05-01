@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>contacts</title>
+</head>
+<body style="background: url(conts.gif);background-size: cover;">
+
+<br>
+<br>
+
+<div style="background:transparent;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid gray;text-align: center;backdrop-filter: blur(15px);">
+
+<h1 style="font-family: verdana;color: lightgray;text-shadow:2px 2px gray;">CONTACTS</h1>
+
+<h3 style="color: white;">GET IN TOUCH</h3>
+<p style="color:whitesmoke;">We appreciate your interest in our organization and would love to hear from you!</p>
+<P style="color:whitesmoke;">For immediate assistance, call our office at 09098757651</P>
+<p style="color:whitesmoke;">MAILING ADDRESS
+RVGH+W84, McArthur Highway, Poblacion, Guiguinto, Guiguinto, Bulacan
+</p>
+
+<a href="2nd.html" style="text-decoration: none;color: burlywood;text-shadow: 2PX 2PX white;">GO BACK</a>
+
+</div>
+
+</body>
+</html>
