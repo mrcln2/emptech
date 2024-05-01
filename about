@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>benefits</title>
+</head>
+<body style="background: url(conts.gif);background-size: cover;">
+
+<br>
+<br>
+
+<div style="background:transparent;width:37%;border-radius: 13px;margin: 90px auto;padding: 5px;border: 7px solid gray;text-align: center;backdrop-filter: blur(15px);">
+
+<h1 style="font-family: verdana;color: lightgray;text-shadow:2px 2px gray;">OUR GOAL</h1>
+
+<p>We want planting trees to be an easy way for everybody to make a contribution to the environment. Through working together, we are able to restore forests, provide habitat for many different kinds of animals, and improve social conditions all around the world.
+
+
+
+<p>Tree planting is the process of transplanting young trees, typically seedlings, for various purposes. It's a widespread practice with environmental, social, and economic benefits.
+
+<p>The Process:
+<p>• Seedlings are grown in nurseries for a period before being transplanted. 
+<p>• Planting can be for purposes like forestry, land reclamation (reusing degraded land), or landscaping. 
+<p>• There are different techniques depending on the scale of planting and the purpose. 
+
+<p>Importance:
+<p>Environmental Benefits: Combats climate change by absorbing carbon dioxide, improves air quality by filtering pollutants, reduces soil erosion, and provides habitat for wildlife.
+Social and Economic Benefits: Increases property values, creates jobs in forestry and landscaping sectors, provides food and resources in some cases, and beautifies communities.
+
+<p>WANT TO HELP MAKE A POSITIVE IMPACT FOR THE ENVIRONMENT?
+
+<p>• Plant your own tree in your yard, following proper planting techniques to ensure its survival.
+<p>• Support organizations involved in tree planting initiatives.
+
+<p>Planting trees is a relatively simple activity with far-reaching positive impacts. It's a great way to contribute to a healthier planet and a greener future.</p>
+
+
+<a href="2nd.html" style="text-decoration: none;color: burlywood;text-shadow: 2PX 2PX white;">GO BACK</a>
+
+</div>
+
+</body>
+</html>
